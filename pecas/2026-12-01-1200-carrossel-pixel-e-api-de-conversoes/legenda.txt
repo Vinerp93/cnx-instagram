@@ -1,9 +1,11 @@
-Medido, não estimado.
+Alguém comprou pelo seu anúncio e a Meta nem ficou sabendo. Já aconteceu na sua conta?
 
 Pixel: código no seu site que avisa a Meta quando alguém visita, adiciona ao carrinho ou compra.
 API de conversões: o mesmo aviso enviado pelo servidor, que funciona mesmo quando o navegador bloqueia o pixel.
 
-Com os dois funcionando, a Meta encontra mais pessoas parecidas com quem comprou. Na CNX, cada evento é testado na primeira semana.
+Com os dois funcionando, a Meta encontra mais pessoas parecidas com quem comprou. Faltam 3 dias para a Black Friday: cada compra não registrada é aprendizado que a Meta perde.
+
+Na CNX, cada evento é testado na primeira semana. Medido, não estimado.
 
 Fale com a CNX pelo link na bio.
 
